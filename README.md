@@ -15,12 +15,6 @@ A simple, self-hosted web app to help you build and maintain daily habits. Track
 - **Local Data Storage**: Saves your data locally (e.g., JSON, SQLite) for privacy and simplicity.
 - **Responsive UI**: Built with lightweight design for desktop and mobile use.
 
----
 
-## 🚀 Getting Started
 
-1. **Clone this repo**  
-   ```bash
-   git clone https://huggingface.co/spaces/ilsa15/Daily-Habit-Tracker.git
-   cd Daily-Habit-Tracker
 
